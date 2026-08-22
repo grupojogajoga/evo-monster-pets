@@ -1,0 +1,68 @@
+﻿CHECKLIST COMPLETO — EVO Monster PET
+ 
+ ETAPA 1 — MENU PRINCIPAL
+ Apresentação de logo (Joga&Joga)
+Importante: Criar seta navegadora que responde os direcionais do joystick
+Abrir o jogo → tela do Menu Principal
+Escolher opção: Novo Jogo
+Escolher opção: Idiomas (Português / Inglês / Espanhol)
+Escolher opção: Livro de Pets / PETDEX
+
+Tela de carregamento ⚠️ Aviso: "Alcance o Nível 10 para desbloquear e treinar novos Pets!"
+ 
+ 
+ 
+ ETAPA 2 — CRIAÇÃO DO SEU PET
+ 
+Selecionar / Escolher seu primeiro Pet disponível (fator surpresa = escolha entre 3 caixas "?")
+Pet aleatório é selecionado 
+Nomear seu Pet → digitar o nome (teclado)
+Confirmar → ir para a Tela Principal de Cuidados
+ 
+ 
+ 
+ETAPA 3 — TELA PRINCIPAL & CUIDADOS
+ 
+Acompanhar status do Pet:
+ Fome → barra/valor
+ Saúde → barra/valor
+Nível → começa em Nível 1
+Escolher ação:
+Alimentar → Minigame de coletar frutas
+ Remédio → Minigame de cuidados / curar
+ Batalhar → entrar na Arena
+Verificar munição: Munição: 5 (recarrega conforme jogo)
+ 
+ 
+ 
+ETAPA 4 — SUBINDO DE NÍVEL & EVOLUÇÃO
+ 
+Cuidar, alimentar, brincar e batalhar → ganhar Experiência
+Atingir Nível 5 → ✅ 1ª Evolução do Pet
+Atingir Nível 10 → ✅ 2ª Evolução + desbloqueia PETDEX / novos Pets
+Escolher e treinar novos Pets desbloqueados
+Atingir Nível 20 → ✅ 3ª Evolução (evolução final)
+ Atingir nível 25  → pet se despede (criar desenho de uma carta de despedida e agradecimento)
+ 
+ 
+ ETAPA 5 — BATALHAS
+ 
+Entrar na Arena → Jogador vs Inimigo (arena com quantidade de inimigos de níveis aleatórios)
+Usar estratégia: administrar fome, saúde e munição
+Vencer batalhas → ganhar experiência e itens
+Derrotado → cuidar do Pet, recuperar saúde e tentar novamente
+ Adicionar na sala principal de cuidados virus que aparecem aleatoriamente,se tocar no pet ficam impregnados sugando status,única forma de se livrar = jogando minigame de saúde/medicamento;se o vírus tiver impregnado = pet não pode entrar em batalhas
+ 
+ 
+ ETAPA 6 — CONCLUIR / FINALIZAR
+ 
+Evoluir seu Pet até a forma final (Nível 20)
+Coletar e treinar todos os Pets do PETDEX
+Vencer todos os desafios e batalhas
+Jogo Completo!
+ 
+ 
+ 
+ RESUMÃO DO CAMINHO:
+ 
+Menu → Idioma → Escolher Pet → Nomear → Cuidar/Alimentar/Batalhar → Subir Nível → Evoluir (N5 / N10 / N20) → Desbloquear PETDEX → Coletar todos → Batalhar → 100% Concluído!
